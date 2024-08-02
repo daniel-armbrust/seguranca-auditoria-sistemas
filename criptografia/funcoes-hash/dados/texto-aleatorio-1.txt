@@ -1,0 +1,54 @@
+Segurança da informação
+-----------------------
+
+A segurança da informação (SI) está diretamente relacionada com proteção de um 
+conjunto de informações, no sentido de preservar o valor que possuem para um 
+indivíduo ou uma organização. São propriedades básicas da segurança da informação: 
+confidencialidade, integridade, disponibilidade, autenticidade e legalidade.
+
+A SI não está restrita somente a sistemas computacionais, informações eletrônicas 
+ou sistemas de armazenamento. O conceito aplica-se a todos os aspectos de proteção 
+de informações e dados. O conceito de Segurança Informática ou Segurança de 
+Computadores está intimamente relacionado com o de Segurança da Informação, 
+incluindo não apenas a segurança dos dados/informação, mas em si o sistema.
+
+Atualmente o conceito de Segurança da Informação está padronizado pela norma 
+ISO/IEC 17799:2005, influenciada pelo padrão inglês (British Standard) BS 7799. 
+A norma técnica de segurança da informação em vigor é: 
+ABNT NBR ISO/IEC 27002:2013
+
+MD5
+---
+
+O algoritmo de sintetização de mensagem MD5 é uma função hash amplamente utilizada 
+que produz um valor de hash de 128 bits expresso em 32 caracteres. Embora o MD5 
+tenha sido projetado inicialmente para ser usado como uma função hash 
+criptográfica, foi constatado que ele sofre de extensas vulnerabilidades. Ele 
+ainda pode ser usado como uma soma de verificação para checar a integridade de 
+dados, mas apenas contra corrupção não intencional. Ele permanece adequado para 
+outros fins não criptográficos, por exemplo, para determinar a partição para uma 
+chave específica em um banco de dados particionado.
+
+O MD5 foi projetado por Ronald Rivest em 1991 para substituir uma função hash 
+anterior MD4, e foi especificado em 1992 como RFC 1321.
+
+Um requisito básico de qualquer função de hash criptográfico é que seja 
+computacionalmente inviável encontrar duas mensagens distintas com hash para o 
+mesmo valor. O MD5 falha com esse requisito catastroficamente; essas colisões 
+podem ser encontradas em segundos em um computador doméstico comum.
+
+As fraquezas do MD5 foram exploradas em campo, principalmente pelo malware Flame 
+em 2012. O CMU Software Engineering Institute considera o MD5 essencialmente 
+"criptograficamente quebrado e inadequado para uso posterior". Em 2012, o malware 
+Flame explorou os pontos fracos do MD5 para falsificar uma assinatura digital da 
+Microsoft.
+
+Em 2008, Ronald Rivest e outros, publicaram uma nova versão do algoritmo o MD6 
+com hash de tamanhos 224, 256, 384 ou 512 bits. O algoritmo MD6 iria participar 
+do concurso para ser o novo algoritmo SHA-3,[6][7] porém logo depois removeu-o do 
+concurso por considerá-lo muito lento, anunciando que os computadores de hoje 
+são muito lentos para usar o MD6.
+
+A partir de 2019, o MD5 continua sendo amplamente utilizado, apesar de suas 
+fraquezas e depreciação bem documentadas por especialistas em segurança
+
