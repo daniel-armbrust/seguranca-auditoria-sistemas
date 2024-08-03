@@ -6,5 +6,5 @@ Repositório de códigos e material de apoio prático para a disciplina de **SEG
 
 ## Descrição dos diretórios
 
-- **criptografia/funcoes-hash/**
+- **hash/**
     - Exemplo do uso de funções HASH em Python.
