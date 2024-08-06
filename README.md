@@ -7,13 +7,13 @@ Repositório de códigos e material de apoio prático para a disciplina de **SEG
 ## Descrição dos diretórios
 
 - **hash/**
-    - Exemplo do uso de funções HASH em Python.
+    - Exemplos sobre o uso de funções HASH em Python.
 
 - **criptografia/**
-    - Exemplo do uso de Criptografia.
+    - Exemplos sobre o uso de Criptografia.
 
 - **redes/**
-    - Exemplo dos Protocolos de Redes.
+    - Exemplos sobre o uso de Protocolos de Redes.
 
 - **dados/**
     - Diretório que contém dados aleatórios.
